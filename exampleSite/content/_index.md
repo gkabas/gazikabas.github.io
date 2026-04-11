@@ -44,7 +44,7 @@ ABFER, Bayes Business School, BI Norwegian Business School, CBID Central Banker'
   <button onclick="nextSlide2()">Next ❯</button>
 </div>
 
-**"There is No Planet B", but for Banks There are "Countries B to Z": Domestic Climate Policy and Cross-Border Lending**<br> 
+**Domestic Climate Policy and Cross-Border Lending**<br> 
 with <u>[Emanuela Benincasa](https://emanuelabenincasa.wordpress.com/)</u> and <u>[Steven Ongena](https://sites.google.com/site/stevenongena/)</u>, R&R@<i>Management Science</i>  
 
 <button id="main-results-fig1" onclick="abs1()">Abstract</button> <button id="main-results-res1" onclick="showPDFWithSlides1()">Main Results</button> <button id="main-results-pres1" onclick="pres1()">Presentations</button> <button class="button-pdf" onclick="pdf1()">PDF</button> <button class="button-ssrn" onclick="ssrn1()">SSRN</button>
